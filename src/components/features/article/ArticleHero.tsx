@@ -21,7 +21,7 @@ export const ArticleHero = ({
   const { t } = useTranslation();
   const inspectorProps = useContentfulInspectorMode({ entryId: article.sys.id });
 
-  const { title, shortDescription, publishedDate } = article;
+  const { title, subtitle, publishedDate } = article;
 
   return (
     <div
@@ -70,9 +70,9 @@ export const ArticleHero = ({
           </div>
         </div>
         <h1 {...inspectorProps({ fieldId: 'title' })}>{title}</h1>
-        {shortDescription && (
-          <p className="mt-2" {...inspectorProps({ fieldId: 'shortDescription' })}>
-            {shortDescription}
+        {subtitle && (
+          <p className="mt-2" {...inspectorProps({ fieldId: 'subtitle' })}>
+            {subtitle}
           </p>
         )}
         <div
