@@ -14,11 +14,15 @@
   },
   "footer": {
     "aboutUs": "about us",
-    "description": "Our company specialises in the development of advanced technologies for a wide range of industries. We use cutting-edge techniques and algorithms to create intelligent systems that can help businesses automate tasks, improve efficiency, and drive innovation.",
+    "description": "Innovation. Inspiration. Emotion. We are 330,000+ hospitality Talents perfecting the art of welcome with passion, inspiring and designing new ways of connecting and experiencing the world. People are the heart of everything we do – fostering authentic and meaningful connections, and constantly seeking to spark delight for our clients and to deliver excellence. Our bold and visionary approach reaches far beyond the traditional hotel model, reimagining and continuously transforming hospitality to craft and unlock exceptional experiences for our clients, to give back to the planet and our communities, and drive value for our partners and all stakeholders.",
     "powerBy": "Powered by"
   },
   "notFound": {
     "title": "Page not found",
     "description": "This page doesn't seem to exist. <0>Click here</0> to go back the homepage."
+  },
+  "search": {
+    "placeholder": "Search...",
+    "readMore": "Read more"
   }
 }

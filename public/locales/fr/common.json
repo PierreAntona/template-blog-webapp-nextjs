@@ -1,0 +1,28 @@
+{
+  "article": {
+    "relatedArticles": "Articles similaires",
+    "featured": "featured"
+  },
+  "landingPage": {
+    "latestArticles": "Nouveaux articles"
+  },
+  "common": {
+    "regionalSettings": "Regional Settings",
+    "homepage": "Homepage",
+    "language": "Language",
+    "languageDrawer": "Toggle language drawer"
+  },
+  "footer": {
+    "aboutUs": "À propos",
+    "description": "Innovation. Inspiration. Émotion. Nous sommes plus de 330 000 Talents qui exerçons l’art de l’hospitalité avec passion. Chaque jour, nous contribuons à créer des liens entre les personnes et à faire découvrir le monde. Nous plaçons l’humain au cœur de tout ce que nous faisons, en favorisant des relations authentiques et porteuses de sens, en faisant plaisir à nos clients tout en visant l’excellence. Notre approche, audacieuse et visionnaire, dépasse le modèle de l’hospitalité classique. Nous nous réinventons pour proposer des expériences exceptionnelles à nos clients, avoir une empreinte positive et créer de la valeur pour nos partenaires et nos parties prenantes.",
+    "powerBy": "Powered by"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "description": "This page doesn't seem to exist. <0>Click here</0> to go back the homepage."
+  },
+  "search": {
+    "placeholder": "Rechercher...",
+    "readMore": "Lire la suite"
+  }
+}
